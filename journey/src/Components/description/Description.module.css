@@ -1,0 +1,35 @@
+.title {
+  display: flex;
+  justify-content: center;
+}
+
+.title h1 {
+  font-size: 35px;
+  font-weight: 500;
+  color: black;
+  margin-bottom: 5%;
+}
+
+.benefit {
+  margin-bottom: 8%;
+}
+
+.benefit-title {
+  width: 71px;
+  height: 30px;
+  background-color: #8cc3ce;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3%;
+}
+
+.benefit-number {
+  color: #fff;
+  font-size: 18px;
+}
+
+.img {
+  height: 100%;
+  width: 100%;
+}

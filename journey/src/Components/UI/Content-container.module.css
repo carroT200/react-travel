@@ -1,0 +1,6 @@
+.content {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  grid-gap: 5%;
+  grid-auto-flow: dense;
+}

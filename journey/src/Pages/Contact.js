@@ -1,5 +1,14 @@
+import { Fragment } from 'react';
+import ContactMenu from '../Components/Contact/ContactMenu';
+import Footer from '../Components/footer/Footer';
+
 const Contact = () => {
-  return <h1>Contact</h1>;
+  return (
+    <Fragment>
+      <ContactMenu />
+      <Footer />
+    </Fragment>
+  );
 };
 
 export default Contact;

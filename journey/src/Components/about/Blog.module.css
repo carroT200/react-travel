@@ -1,0 +1,19 @@
+.title {
+  font-size: 35px;
+  font-weight: 500;
+  color: black;
+
+  margin-bottom: 5%;
+}
+
+.text {
+  color: #373737;
+  font-size: 17px;
+
+  margin-bottom: 5%;
+}
+
+.img {
+  width: 95%;
+  height: 85%;
+}
