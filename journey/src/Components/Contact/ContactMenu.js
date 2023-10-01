@@ -31,15 +31,15 @@ const ContactMenu = () => {
             <Form.Control as="textarea" placeholder="Your wishes" rows={3} />
           </Form.Group>
           <ContentConteiner>
+            <Form.Label>How many people?</Form.Label>
             <Form.Select aria-label="Default select example">
-              <option>How many people?</option>
               <option value="1">One</option>
               <option value="2">Two</option>
               <option value="3">Three</option>
               <option value="4">Four</option>
             </Form.Select>
-            <Button variant="info">Send</Button>{' '}
           </ContentConteiner>
+          <Button variant="info">Send</Button>{' '}
         </Form>
       </ContentConteiner>
     </Card>
