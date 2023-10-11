@@ -1,5 +1,7 @@
+import Tours from '../Components/explore/tours';
+
 const Explore = () => {
-  return <h1>Explore</h1>;
+  return <Tours />;
 };
 
 export default Explore;
