@@ -20,11 +20,7 @@ const AboutPlace = () => {
         </section>
         <section>
           <p className={classes.text}>
-            Cappadocia is a stunning region in central Turkey known for <br />{' '}
-            its unique rock formations, underground cities, and hot air <br />{' '}
-            balloons. The landscape is filled with fairy chimneys, caves,
-            <br /> and historical sites that showcase the rich cultural heritage{' '}
-            <br /> of Turkey.{' '}
+            helo world <br /> of Turkey.{' '}
           </p>
         </section>
       </ContentConteiner>
