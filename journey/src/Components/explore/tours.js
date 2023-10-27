@@ -8,7 +8,7 @@ const ToursMenu = () => {
       <div className={classes.grid}>
         <div className={classes.box1}> Lo</div>
         <div className={classes.box2}>2</div>
-        <div className={classes.box3}>1</div>
+        <div className={classes.box3}>6545</div>
       </div>
     </Card>
   );
